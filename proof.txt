@@ -1,4 +1,6 @@
 proof of control
+researcher: Hassan Jawaid
+bugcrowd-handle: hassanjawaid
 marker: proof-7f3a2b
 Authorised security research under the domain operator's bug bounty programme.
 No system was accessed, altered or damaged. No data is collected.
