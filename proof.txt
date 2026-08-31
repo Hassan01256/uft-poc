@@ -1,8 +1,5 @@
-Subdomain takeover proof of concept - by Hassan Jawaid
-host: www.uft.unimelb.edu.au
+proof of control
 marker: proof-7f3a2b
-Authorised security research under the University of Melbourne bug bounty programme
-on Bugcrowd (subdomain takeover campaign, *.unimelb.edu.au).
-No University system was accessed, altered or damaged. No data is collected.
-Remediation: delete the three NS records for uft.unimelb.edu.au from unimelb.edu.au.
-Withdrawn on request. Contact via the Bugcrowd submission.
+Authorised security research under the domain operator's bug bounty programme.
+No system was accessed, altered or damaged. No data is collected.
+Withdrawn on request. Contact via the bug bounty submission.
